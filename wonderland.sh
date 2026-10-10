@@ -355,7 +355,7 @@ cat > README.md << 'EOF'
 
 try find the white rabbit in wonderland, 
 to begin head down the rabbit hole, navigate into 
-the rabbit hole branch.
+the rabbit-hole branch.
 
 at each stage read the README file with "cat README.md"
 use ls to see contents of directory
